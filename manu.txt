@@ -1,0 +1,14 @@
+
+
+Code Coverage Report:      
+  2015-11-17 11:40:39      
+                           
+ Summary:                  
+  Classes:  0.00% (0/2)    
+  Methods: 57.89% (11/19)  
+  Lines:   82.07% (119/145)
+
+Hotel
+  Methods:  30.00% ( 3/10)   Lines:  85.06% ( 74/ 87)
+HotelTest
+  Methods:  88.89% ( 8/ 9)   Lines:  95.74% ( 45/ 47)
